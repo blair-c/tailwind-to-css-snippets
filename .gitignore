@@ -1,0 +1,10 @@
+node_modules
+*.vsix
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/
+
+.DS_Store
