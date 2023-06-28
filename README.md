@@ -4,7 +4,7 @@ Tailwind to CSS Snippets allows users to type the Tailwind classes they know, an
 
 ## Installation
 
-**[Install via the Visual Studio Code Marketplace →]()**
+**[Install via the Visual Studio Code Marketplace →](https://marketplace.visualstudio.com/items?itemName=blair-c.tailwind-to-css-snippets)**
 
 ## Features
 

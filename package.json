@@ -28,7 +28,7 @@
   ],
   "icon": "icon.png",
   "galleryBanner": {
-    "color": "#0d1c2f"
+    "color": "#f9fafb"
   },
   "contributes": {
     "snippets": [
