@@ -2,6 +2,7 @@
   "name": "tailwind-to-css-snippets",
   "displayName": "Tailwind to CSS Snippets",
   "description": "Tailwind classes to CSS properties code snippets",
+  "publisher": "blair-c",
   "repository": {
     "type": "git",
     "url": "https://github.com/blair-c/tailwind-to-css-snippets.git"
@@ -9,6 +10,7 @@
   "bugs": {
     "url": "https://github.com/blair-c/tailwind-to-css-snippets/issues"
   },
+  "license": "MIT",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
