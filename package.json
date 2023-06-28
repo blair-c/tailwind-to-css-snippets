@@ -2,6 +2,13 @@
   "name": "tailwind-to-css-snippets",
   "displayName": "Tailwind to CSS Snippets",
   "description": "Tailwind classes to CSS properties code snippets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blair-c/tailwind-to-css-snippets.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blair-c/tailwind-to-css-snippets/issues"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.79.0"
@@ -9,6 +16,18 @@
   "categories": [
     "Snippets"
   ],
+  "keywords": [
+    "tailwind",
+    "tailwindcss",
+    "css",
+    "snippets",
+    "autocomplete",
+    "vscode"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#0d1c2f"
+  },
   "contributes": {
     "snippets": [
       {

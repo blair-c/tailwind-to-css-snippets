@@ -18,7 +18,7 @@ Access media queries for responsive and accessible design, and other Tailwind at
 
 ### Support
 
-> `CSS`, `SCSS`, and `Less` are currently supported.
+`CSS`, `SCSS`, and `Less` are currently supported.
 
 ## Recommended VS Code Settings
 
