@@ -27,9 +27,11 @@ It is recommended to set `Snippet Suggestions` to `inline (default)` or `top`, o
 ## Troubleshooting
 
 If you use the [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) VS Code plugin, you may have the following CSS file association set, as recommended by its documentation:
-```
+
+```js
 "files.associations": {
   "*.css": "tailwindcss"
 }
 ```
+
 **Remove this association** for Tailwind to CSS code snippets to be properly enabled in `.css` files.
