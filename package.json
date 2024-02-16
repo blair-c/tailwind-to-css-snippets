@@ -11,7 +11,7 @@
     "url": "https://github.com/blair-c/tailwind-to-css-snippets/issues"
   },
   "license": "MIT",
-  "version": "0.0.3",
+  "version": "3.4.0",
   "engines": {
     "vscode": "^1.79.0"
   },
